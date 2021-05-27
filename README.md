@@ -16,6 +16,7 @@ Please reach me if you want to collaborate.
 - [LinkedIn](https://www.linkedin.com/in/adrian-pe%C3%B1a-hern%C3%A1ndez-0001391a2/)
 
 <br />
+
 [![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=Adrianlkop&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Data Science / AI:
@@ -44,4 +45,3 @@ Google Colab | Jupyter Notebook | AWS | Atom | VS Code | Microsoft Office Suite 
 </details> 
 
   
-
