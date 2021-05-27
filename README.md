@@ -21,11 +21,11 @@ Please reach me if you want to collaborate.
 
 ### Data Science / AI:
 
-Computer Vision | Natural Language Processing | Text Processsing | Machine Learning | Deep Learning | Transfer Learning | Ensemble Learning | Data Visualization |
+Computer Vision | Natural Language Processing | Text Processsing | GANs | Machine Learning | Deep Learning | Transfer Learning | Ensemble Learning | Data Visualization |
 Web Scraping | Data Preparation | Big Data | Neural Networks | Pipelining | Image Processing
 
 ### Machine Learning
-Recommendation System | Clustering | Computer Vision| Regression | Classification | Reinforcement Learning | LSTM
+Recommendation System | Clustering | Regression | Classification | Reinforcement Learning | LSTM
 
 ### Languages
 Python | SQL | PHP | JavaScript | JAVA | C++ | C
