@@ -1,7 +1,7 @@
 ## Hello, folks!
 My name is Adrian Peña and I will graduate with a Master's degree in Cybersecurity and Artificial Intelligence from the University of Sheffield in autumn 2021.
 
-## A Cybersecurity passionate and a Data Scientist
+## A Cybersecurity enthusiast and a Data Scientist
 
 - ✨ Computer Science graduate with special mention in Artificial Intelligence from University of Hertfordshire.
 - 🌱 Currently working on my Master's degree in Cybersecurity and Artificial Intelligence from the University of Sheffield.
