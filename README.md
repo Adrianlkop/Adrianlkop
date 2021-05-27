@@ -17,8 +17,6 @@ Please reach me if you want to collaborate.
 
 <br />
 
-[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=Adrianlkop&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Data Science / AI:
 
 Computer Vision | Natural Language Processing | Text Processsing | Machine Learning | Deep Learning | Transfer Learning | Ensemble Learning | Data Visualization |
@@ -43,6 +41,7 @@ Google Colab | Jupyter Notebook | AWS | Atom | VS Code | Microsoft Office Suite 
  Tensorflow | PyTorch | Keras | Spark | Flask | Scikit-learn | Pandas | XGBoost | OpenCV
 
 </details> 
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=Adrianlkop&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
