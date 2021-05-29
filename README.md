@@ -27,6 +27,10 @@ Web Scraping | Data Preparation | Big Data | Neural Networks | Pipelining | Imag
 ### Machine Learning
 Recommendation System | Clustering | Regression | Classification | Reinforcement Learning | LSTM
 
+### Cybersecurity
+Digital Forensics | Firewall | Intrusion Detection | Application Security Development | Malware Prevention | Analytics & Intelligence |  Security Incident Handling
+
+
 ### Languages
 Python | SQL | PHP | JavaScript | JAVA | C++ | C
 
